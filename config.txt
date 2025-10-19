@@ -1,0 +1,3 @@
+# Project Configuration
+version=1.0
+author=Ya194287
