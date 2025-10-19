@@ -6,3 +6,6 @@ def multiply(a, b):
 
 if __name__ == "__main__":
     print("Calculator module")
+
+def subtract(a, b):
+    return a - b
